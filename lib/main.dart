@@ -26,7 +26,7 @@ class _InicioState extends State<Inicio> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Flutter primer APP"),
+          title: Text("Flutter primer APP con fotos"),
         ),
         body: ListView(
           //lo saque con control + . para tener varios widgets
